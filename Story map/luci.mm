@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffffcc" CREATED="1495375613729" ID="ID_1135066067" MODIFIED="1497116246569" STYLE="bubble" TEXT="A(1)">
+<node BACKGROUND_COLOR="#ffffcc" CREATED="1495375613729" ID="ID_1135066067" MODIFIED="1497129442537" STYLE="bubble" TEXT="A(1)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -58,24 +58,27 @@
       to be on the other side of the door. After much thought you choose:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999" STYLE="bezier"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1495465313986" ID="ID_87590835" MODIFIED="1497111153821" POSITION="right" TEXT="B2(3)">
+<node CREATED="1495465313986" ID="ID_87590835" MODIFIED="1497129443105" POSITION="right" TEXT="B2(3)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Alien planet</b>
+      <b>Alien planet </b>
+    </p>
+    <p>
+      You appear on an alien planet with weird vegetation and a purple sea. At yout far left there is a cave. You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1495465370086" HGAP="19" ID="ID_167552843" MODIFIED="1497125437517" TEXT="C3(6)" VSHIFT="1">
+<node CREATED="1495465370086" HGAP="19" ID="ID_167552843" MODIFIED="1497129443498" TEXT="C3(6)" VSHIFT="1">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -85,7 +88,7 @@
       <b>Take a swim in the purple sea </b>
     </p>
     <p>
-      A shark swims towards you
+      You decide to swim in the sea whose water is so pleasantly warm. You see a shark swimming towards you. You:
     </p>
     <p>
       
@@ -124,35 +127,34 @@
       <font color="#ff6600">stupid flag</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node CREATED="1495465434059" HGAP="18" ID="ID_1822789164" MODIFIED="1497118080339" TEXT="D6(13)" VSHIFT="14">
+<node CREATED="1495465434059" HGAP="18" ID="ID_1822789164" MODIFIED="1497129444265" TEXT="D6(13)" VSHIFT="14">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Swim as fast as you can to get out of the water</b>
+      <b>Swim as fast as you can to get out of the water </b>
+    </p>
+    <p>
+      You start&#160;swimming towards the beach as fast as you can but the shark is way faster than you. The shark gets closer and closer and when it is right behind you... it swims past you. It turns out it was hunting an other fish and didn't care at all about you. You:
     </p>
   </body>
 </html>
 </richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465862403" ID="ID_810766439" MODIFIED="1497119336427" STYLE="bubble" TEXT="E11(26)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465862403" ID="ID_810766439" MODIFIED="1497128809700" STYLE="bubble" TEXT="E11(26)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      The shark goes past you. It eats an other fish and then swims away. It didn't even notice you.
-    </p>
     <p>
       <b>Stay in the water </b>
     </p>
@@ -177,20 +179,17 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465864408" ID="ID_933111226" MODIFIED="1497118369118" STYLE="bubble" TEXT="E12(27)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465864408" ID="ID_933111226" MODIFIED="1497128860404" STYLE="bubble" TEXT="E12(27)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      The shark goes past you. It eats an other fish and then swims away. It didn't even notice you.
-    </p>
-    <p>
       <b>Get out</b>
     </p>
     <p>
-      You stay on the beach and appreciate the scenery. Only in lucid dreams would you ever be able to witness something so beautifull as this place.
+      You go to the beach and lie there to appreciate the scenery. Only in lucid dreams would you ever be able to witness something so beautifull as this place.
     </p>
     <p>
       
@@ -212,33 +211,41 @@
 </node>
 </node>
 </node>
-<node CREATED="1495465372546" HGAP="19" ID="ID_1936978874" MODIFIED="1497111153820" STYLE="bubble" TEXT="C4(7)" VSHIFT="33">
+<node CREATED="1495465372546" HGAP="19" ID="ID_1936978874" MODIFIED="1497129878122" STYLE="bubble" TEXT="C4(7)" VSHIFT="33">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Go into the cave</b>
+      <b>Go into the cave </b>
+    </p>
+    <p>
+      You&#160;walk inside the cave. After a few minutes you notice that a bear lives inside it. A bear with two heads! You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1495465435155" ID="ID_481153028" MODIFIED="1497111153819" TEXT="D7(14)" VSHIFT="-18">
+<node CREATED="1495465435155" ID="ID_481153028" MODIFIED="1497129446258" TEXT="D7(14)" VSHIFT="-18">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Fight the bear with the two heads</b>
+      <b>Fight the bear with the two heads </b>
+    </p>
+    <p>
+      You get into a fight with it. At some point you get the choice to either:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465879388" ID="ID_684725599" MODIFIED="1497126255042" STYLE="bubble" TEXT="E13(28)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465879388" ID="ID_684725599" MODIFIED="1497129593996" STYLE="bubble" TEXT="E13(28)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -248,10 +255,7 @@
       <b>Immobilize it </b>
     </p>
     <p>
-      You see that it is a mather. She was just defending her children. If you had killed her the babies would have died of starvation.
-    </p>
-    <p>
-      At the end of the cave you see a person tied up. You help him, he gives you some money as a gift and then he leaves.&#160;The money isn't worth anything because they exist only in your head.
+      It turns out that the bear was a mother and was just defending her children. If you had killed her the babies would have died of starvation. At the end of the cave you see a person tied up so you help him out and he in return gives you some money as a gift before leaving the cave.&#160;The money isn't worth anything because they exist only in your head.
     </p>
     <p>
       
@@ -271,7 +275,7 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465881008" ID="ID_1067439683" MODIFIED="1497125661557" STYLE="bubble" TEXT="E14(29)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465881008" ID="ID_1067439683" MODIFIED="1497129636068" STYLE="bubble" TEXT="E14(29)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -281,10 +285,7 @@
       <b>Kill it</b>
     </p>
     <p>
-      You see that it was a mather. Her babies will die of starvation and it is your fault.
-    </p>
-    <p>
-      At the end of the cave you see a person tied up. You help him, he gives you some money as a gift and then he leaves. The money don't worth anything because they exist only in your head.
+      It turns out that the bear was a mother and and was just defending her children. Her babies will now die of starvation and it is your fault. At the end of the cave you see a person tied up so you help him out and he in return gives you some money as a gift before leaving the cave.&#160;The money isn't worth anything because they exist only in your head.
     </p>
     <p>
       
@@ -305,7 +306,7 @@
 <icon BUILTIN="flag-black"/>
 </node>
 </node>
-<node CREATED="1495465435835" ID="ID_1992635423" MODIFIED="1497119476603" TEXT="C8(15)" VSHIFT="10">
+<node CREATED="1495465435835" ID="ID_1992635423" MODIFIED="1497130052477" TEXT="D8(15)" VSHIFT="10">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -313,6 +314,18 @@
   <body>
     <p>
       <b>Hide </b>
+    </p>
+    <p>
+      The bear doesn't notice you. At the end of the cave you see a person tied up. You:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
     </p>
     <p>
       
@@ -326,18 +339,12 @@
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="flag-black"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465892838" ID="ID_984924856" MODIFIED="1497120009055" STYLE="bubble" TEXT="E15(30)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465892838" ID="ID_984924856" MODIFIED="1497129006765" STYLE="bubble" TEXT="E15(30)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      The bear doesn't notice you
-    </p>
-    <p>
-      At the end of the cave you see a person tied up
-    </p>
     <p>
       <b>Help them</b>
     </p>
@@ -362,23 +369,17 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465894250" ID="ID_573119284" MODIFIED="1497119611489" STYLE="bubble" TEXT="E16(31)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465894250" ID="ID_573119284" MODIFIED="1497129448378" STYLE="bubble" TEXT="E16(31)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      The bear doesn't notice you
-    </p>
-    <p>
-      At the end of the cave you see a person tied up
-    </p>
-    <p>
       <b>Don't help them</b>
     </p>
     <p>
-      The bear eats the man while you run away. You feel guilty.
+      The bear eats the man while you run away. You feel really guilty.
     </p>
     <p>
       
@@ -401,7 +402,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1495465327296" ID="ID_36868681" MODIFIED="1497111142292" POSITION="left" TEXT="B1(2)">
+<node COLOR="#000000" CREATED="1495465327296" ID="ID_36868681" MODIFIED="1497129016108" POSITION="left" TEXT="B1(2)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -411,10 +412,11 @@
       <b>Forest </b>
     </p>
     <p>
-      &#160;&#160;&#160;&#160;&#160;You find yourself in a beautifull forest. You notice that a few meters ahead of you is a cage with someone inside, so you go to investigate. It turns out that inside it is not any other but yourself! They look exactly like you. They tell you that an evil captor trapped them inside and inly you can help them. You:
+      You find yourself in a beautifull forest. You notice that a few meters ahead of you is a cage with someone inside, so you go to investigate. It turns out that inside it is not any other but yourself! They look exactly like you. They tell you that an evil captor trapped them inside and inly you can help them. You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#000000" CREATED="1495465353656" ID="ID_1086917729" MODIFIED="1497111153816" STYLE="bubble" TEXT="C1(4)">
@@ -458,13 +460,12 @@
       <font color="#ff6600">fool flag</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node CREATED="1495465396576" ID="ID_919519782" MODIFIED="1497111153812" STYLE="bubble" TEXT="D2(9)" VSHIFT="12">
+<node CREATED="1495465396576" ID="ID_919519782" MODIFIED="1497129727020" STYLE="bubble" TEXT="D2(9)" VSHIFT="12">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -474,13 +475,14 @@
       <b>Kick their hands to make them fall </b>
     </p>
     <p>
-      YOU SEE THE CAPTOR RUNNING TOWARDS YOU.
+      You kick their hands causing the creature to fall to its death. After a moment of silence you turn around and see a man running towards you. You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465522915" ID="ID_680128640" MODIFIED="1497118988340" STYLE="bubble" TEXT="E3(18)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465522915" ID="ID_680128640" MODIFIED="1497127601305" STYLE="bubble" TEXT="E3(18)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -490,16 +492,7 @@
       <b>Prepare yourself for a fight</b>
     </p>
     <p>
-      
-    </p>
-    <p>
-      THE MAN TURNS OUT THAT HE DOESN'T WANT TO FIGHT YOU BUT TO WARN YOU OF THE EVIL SPIRIT THAT TAKES THE FORM OF THE PERSON IN ORDER TO TAKE THEIR PLACE.
-    </p>
-    <p>
-      HE SAVES YOU RIGHT BEFORE THE SPIRIT KILLS YOU FROM BEHIND
-    </p>
-    <p>
-      HE INVITES YOU TO HIS HOUSE TO HANG OUT
+      You decide that running away won't solve your problems so you prepare for a second fight. But it turns out that he doesn't want to fight you but to warn you of the evil spirit that can take the form of anyone, just to take their place after killing them. As you try to thank him he takes out him magic wand and says a spell. This causes the evil spirit, that had climbed back up the cliff to kill you, to get trapped again inside an other cage. He saved you! After a lot of apologizing he says that it is okay because everything is in your head and nothing could truly harm you -physically at least-. He is okay with the idea that his existance will stop when I wake up. He invites you to his house to hang out with him.
     </p>
     <p>
       
@@ -519,7 +512,7 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465524308" ID="ID_1327658816" MODIFIED="1497119006364" STYLE="bubble" TEXT="E4(19)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465524308" ID="ID_1327658816" MODIFIED="1497128046973" STYLE="bubble" TEXT="E4(19)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -529,13 +522,7 @@
       <b>Run away </b>
     </p>
     <p>
-      
-    </p>
-    <p>
-      ENTER THE CRYSTAL CASTLE
-    </p>
-    <p>
-      YOUR OTHER SELF CREEPS FROM BEHIND YOU AND STABS YOU WITH A CRYSTAL.
+      You run away in fear into the forest. The man looses track of you. After half an hour of walking you see in the distance a crystal castle. You get inside, stand in awe from its beauty, your other self creeps behind you and stabs you to the heart.
     </p>
     <p>
       
@@ -557,52 +544,51 @@
 </node>
 </node>
 </node>
-<node CREATED="1495465355696" ID="ID_377747621" MODIFIED="1497111153806" TEXT="C2(5)" VSHIFT="43">
+<node CREATED="1495465355696" ID="ID_377747621" MODIFIED="1497129748379" TEXT="C2(5)" VSHIFT="43">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Don't set self free</b>
+      <b>Don't set self free </b>
+    </p>
+    <p>
+      You walk away while trying not to look back to the screaming and crying person in the cage. After walking half an hour the ground start to shake and cracks formed under your feet. From these cracks bubbles got out entrapping you into one. You start flying with the wind. You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1495465412384" HGAP="21" ID="ID_1997300557" MODIFIED="1497111153805" TEXT="D3(10)" VSHIFT="-13">
+<node CREATED="1495465412384" HGAP="21" ID="ID_1997300557" MODIFIED="1497130358564" TEXT="D3(10)" VSHIFT="-13">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      You get trapped inside one of the bubbles
+      <b>Let the bubble guide you to a land&#160;on the clouds </b>
     </p>
     <p>
-      <b>Let the bubble guide you to a land&#160;on the clouds</b>
-    </p>
-    <p>
-      YOU JUMP ON THEM TO GO BACK DOWN (You see that a house appeared with guards walking around)
+      You reach the sky land and see that a house with guards walking around. You:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465580156" ID="ID_1111533200" MODIFIED="1497119017220" STYLE="bubble" TEXT="E5(20)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465580156" ID="ID_1111533200" MODIFIED="1497130901533" STYLE="bubble" TEXT="E5(20)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      You&#160;want to get inside
-    </p>
     <p>
       <b>Tell the guards to let you in </b>
     </p>
     <p>
-      They demand a ticket to get in. You imagine one and it pops into existance right in front of you. The guard says &quot;Good enough for me.&quot; And lets you in. The house was empty. What where they guarding all this time?
+      They demand a ticket to get in. You imagine one and it pops into existance right in front of you. The guard says 'Good enough for me.' and lets you in. The house was empty. What where they guarding all this time?
     </p>
     <p>
       
@@ -622,23 +608,17 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465583256" ID="ID_1465292676" MODIFIED="1497119047965" STYLE="bubble" TEXT="E6(21)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465583256" ID="ID_1465292676" MODIFIED="1497130746205" STYLE="bubble" TEXT="E6(21)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      You&#160;want to get inside
+      <b>Dig a path under the ground </b>
     </p>
     <p>
-      <b>Dig a path under the ground</b>
-    </p>
-    <p>
-      FIND AN UNDERGROUND TEMPLE FULL OF GREEN VAMPIRES
-    </p>
-    <p>
-      You get killed nearly instantly by them, as they haven't eaten for a thousand years.
+      You decide to dig a path underground so that you won't have to face the guards. Instead though you find inside the earth a temple full of green scary vampires. You get killed nearly instantly by them, as they haven't eaten for a thousand years.
     </p>
     <p>
       
@@ -659,28 +639,29 @@
 <icon BUILTIN="flag-black"/>
 </node>
 </node>
-<node CREATED="1495465428179" HGAP="19" ID="ID_1994769506" MODIFIED="1497111153804" TEXT="D4(11)" VSHIFT="13">
+<node CREATED="1495465428179" HGAP="19" ID="ID_1994769506" MODIFIED="1497130500036" TEXT="D4(11)" VSHIFT="13">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Control the bubble with your mind to go back down to the ground safely</b>
+      <b>Control the bubble with your mind to go back down to the ground safely </b>
+    </p>
+    <p>
+      You manage to control the bubble to get you back down a few kilometers away. There you find a hole full of bull skeletons. You find a way to revive them and then:
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465626277" ID="ID_930581712" MODIFIED="1497119159372" STYLE="bubble" TEXT="E7(22)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465626277" ID="ID_930581712" MODIFIED="1497130504348" STYLE="bubble" TEXT="E7(22)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      FIND A HOLE WITH BULL SKELETONS, REVIVE THEM AND
-    </p>
     <p>
       <b>Take the talking one as your companion</b>
     </p>
@@ -705,20 +686,17 @@
 <edge COLOR="#ff9999"/>
 <icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465630621" ID="ID_138782534" MODIFIED="1497119217411" STYLE="bubble" TEXT="E8(23)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465630621" ID="ID_138782534" MODIFIED="1497130529627" STYLE="bubble" TEXT="E8(23)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      FIND A HOLE WITH BULL SKELETONS, REVIVE THEM AND
-    </p>
-    <p>
       <b>Wake up </b>
     </p>
     <p>
-      Your first adventure didn't feel like one. You were too afraid to take any chances.
+      Your first adventure didn't feel like one. You were too afraid to take any chances. Boring.
     </p>
     <p>
       
