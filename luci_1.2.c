@@ -206,7 +206,9 @@ main()
 					}
 				}
 			}
+		
 		}
+			
 	}
 }
 
@@ -273,8 +275,10 @@ story(x)
 			break;
 		case 8:
 			printf("\n--This is D1--");
-			printf("\n");
-			printf("\n");
+			printf("\nYou reach for their hand and pull them up. After saving them you lie flat on the ground to take a breath.");
+			printf("\nSuddenly, while your eyes are closed, you feel someone pushing you causing you to fall off the cliff. While you");
+			printf("\nare falling you see your other self smiling from the top. You clearly shouldn't have trusted them. Fool me");
+			printf("\nonce shame on you, fool me twice shame on me.");
 		
 			break;
 		case 9:
@@ -398,7 +402,7 @@ story(x)
 
 void F(void)
 {
-	printf("\nWant to try again?(y,n)\n");
+	printf("\nDo you want to try again?(y,n)\n");
 	scanf("%c",&i);
 	scanf("%c",&i);
 
