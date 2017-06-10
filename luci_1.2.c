@@ -1,10 +1,12 @@
 #include <stdio.h>
-
+#include <stdbool.h>
+#include <ctype.h>
 void F(void);
 char i;
 
 main()
 {
+	bool ending = false;
 	int a;
 	int n;
 //	char i;
@@ -41,7 +43,8 @@ main()
 				{
 					n=8;
 					story(n);
-					F();
+					ending=true;
+					
 				}
 				else if (a==2)
 				{
@@ -54,13 +57,14 @@ main()
 					{
 						n=18;
 						story(n);
-						F();
+						
 					}
 					else if (a==2)
 					{
 						n=19;
 						story(n);
-						F();
+						ending=true;
+						
 					} 
 				}
 			}
@@ -82,13 +86,15 @@ main()
 					{
 						n=20;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 					else if (a==2)
 					{
 						n=21;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 				}
 				else if (a==2)
@@ -102,13 +108,14 @@ main()
 					{
 						n=22;
 						story(n);
-						F();
+						
 					}
 					else if (a==2)
 					{
 						n=23;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 				}
 				
@@ -135,7 +142,8 @@ main()
 					{
 						n=12;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 				else if (a==2)
 					{
@@ -148,13 +156,14 @@ main()
 						{
 							n=26;
 							story(n);
-							F();
+							ending=true;
+							
 						}
 						else if(a==2)
 						{
 							n=27;
 							story(n);
-							F();
+							
 						}
 					}
 			}
@@ -176,13 +185,14 @@ main()
 					{
 						n=28;
 						story(n);
-						F();
+						
 					}
 					else if(a==2)
 					{
 						n=29;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 				}
 				else if (a==2)
@@ -196,19 +206,28 @@ main()
 					{
 						n=30;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 					else if(a==2)
 					{
 						n=31;
 						story(n);
-						F();
+						ending=true;
+						
 					}
 				}
 			}
-		
 		}
-			
+		if (ending==true){
+			n=32;
+			story(n);
+		}
+		else{
+			n=33;
+			story(n);
+		}
+		F();
 	}
 }
 
@@ -397,12 +416,24 @@ story(x)
 			printf("\n");
 			
 			break;
+		case 32:
+			printf("\n--BAD ENDING--");
+			printf("\nYou wake up sweaty and exhausted. You take a moment to breath while you think what to do next. There must");
+			printf("\nmore pleasant experiences than this. You just have to look harder for them.");
+			
+			break;
+		case 33:
+			printf("\n--GOOD ENDING--");
+			printf("\nYou wake up feeling wonderfull. This experience is unlike anything you have ever seen before and you think that");
+			printf("\nyou should put it immediately back for more.");
+			
+			break;
 	}
 }
 
 void F(void)
 {
-	printf("\nDo you want to try again?(y,n)\n");
+	printf("\n\nDo you want to try again?(y,n)\n");
 	scanf("%c",&i);
 	scanf("%c",&i);
 
