@@ -75,28 +75,36 @@
 </html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1495465370086" HGAP="19" ID="ID_167552843" MODIFIED="1497111153821" TEXT="C3(6)" VSHIFT="1">
+<node CREATED="1495465370086" HGAP="19" ID="ID_167552843" MODIFIED="1497125437517" TEXT="C3(6)" VSHIFT="1">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Take a swim in the purple sea</b>
+      <b>Take a swim in the purple sea </b>
     </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#ff9999"/>
-<font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465431435" ID="ID_378515042" MODIFIED="1497115851872" STYLE="bubble" TEXT="D5(12)" VSHIFT="-5">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
     <p>
       A shark swims towards you
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">shark flag</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#ff9999"/>
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-black"/>
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465431435" ID="ID_378515042" MODIFIED="1497118327939" STYLE="bubble" TEXT="D5(12)" VSHIFT="-5">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       <b>Try to ride it</b>
     </p>
@@ -109,28 +117,34 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">stupid flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node CREATED="1495465434059" HGAP="18" ID="ID_1822789164" MODIFIED="1497111153820" TEXT="D6(13)" VSHIFT="14">
+<node CREATED="1495465434059" HGAP="18" ID="ID_1822789164" MODIFIED="1497118080339" TEXT="D6(13)" VSHIFT="14">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      A shark swims towards you
-    </p>
-    <p>
       <b>Swim as fast as you can to get out of the water</b>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465862403" ID="ID_810766439" MODIFIED="1497115848729" STYLE="bubble" TEXT="E11(26)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465862403" ID="ID_810766439" MODIFIED="1497119336427" STYLE="bubble" TEXT="E11(26)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -151,11 +165,19 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">depths_of_the_ocean</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465864408" ID="ID_933111226" MODIFIED="1497115803456" STYLE="bubble" TEXT="E12(27)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465864408" ID="ID_933111226" MODIFIED="1497118369118" STYLE="bubble" TEXT="E12(27)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -176,9 +198,17 @@
     <p>
       GOOD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">beautiful flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
 </node>
@@ -208,7 +238,7 @@
 </html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465879388" ID="ID_684725599" MODIFIED="1497115824320" STYLE="bubble" TEXT="E13(28)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465879388" ID="ID_684725599" MODIFIED="1497126255042" STYLE="bubble" TEXT="E13(28)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -221,7 +251,7 @@
       You see that it is a mather. She was just defending her children. If you had killed her the babies would have died of starvation.
     </p>
     <p>
-      At the end of the cave you see a person tied up. You help him, he gives you some money as a gift and then he leaves.&#160;The money don't worth anything because they exist only in your head.
+      At the end of the cave you see a person tied up. You help him, he gives you some money as a gift and then he leaves.&#160;The money isn't worth anything because they exist only in your head.
     </p>
     <p>
       
@@ -229,11 +259,19 @@
     <p>
       GOOD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">money flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465881008" ID="ID_1067439683" MODIFIED="1497115844709" STYLE="bubble" TEXT="E14(29)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465881008" ID="ID_1067439683" MODIFIED="1497125661557" STYLE="bubble" TEXT="E14(29)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -254,25 +292,41 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">money flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
-<node CREATED="1495465435835" ID="ID_1992635423" MODIFIED="1497111153817" TEXT="C8(15)" VSHIFT="10">
+<node CREATED="1495465435835" ID="ID_1992635423" MODIFIED="1497119476603" TEXT="C8(15)" VSHIFT="10">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b>Hide</b>
+      <b>Hide </b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">coward</font>&#160;flag
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465892838" ID="ID_984924856" MODIFIED="1497115886330" STYLE="bubble" TEXT="E15(30)">
+<icon BUILTIN="flag-black"/>
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465892838" ID="ID_984924856" MODIFIED="1497120009055" STYLE="bubble" TEXT="E15(30)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -296,11 +350,19 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">good_deed flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465894250" ID="ID_573119284" MODIFIED="1497115926857" STYLE="bubble" TEXT="E16(31)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465894250" ID="ID_573119284" MODIFIED="1497119611489" STYLE="bubble" TEXT="E16(31)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -324,9 +386,17 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">guilt flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
 </node>
@@ -363,7 +433,7 @@
 </html></richcontent>
 <edge COLOR="#ff9999" STYLE="bezier"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465394316" HGAP="21" ID="ID_647394129" MODIFIED="1497112307144" STYLE="bubble" TEXT="D1(8)" VSHIFT="-10">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465394316" HGAP="21" ID="ID_647394129" MODIFIED="1497118992316" STYLE="bubble" TEXT="D1(8)" VSHIFT="-10">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -381,10 +451,18 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">fool flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-black"/>
 </node>
 <node CREATED="1495465396576" ID="ID_919519782" MODIFIED="1497111153812" STYLE="bubble" TEXT="D2(9)" VSHIFT="12">
 <richcontent TYPE="NOTE"><html>
@@ -402,7 +480,7 @@
 </html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465522915" ID="ID_680128640" MODIFIED="1497115696140" STYLE="bubble" TEXT="E3(18)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465522915" ID="ID_680128640" MODIFIED="1497118988340" STYLE="bubble" TEXT="E3(18)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -429,11 +507,19 @@
     <p>
       GOOD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">evil_spirit flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465524308" ID="ID_1327658816" MODIFIED="1497115710945" STYLE="bubble" TEXT="E4(19)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465524308" ID="ID_1327658816" MODIFIED="1497119006364" STYLE="bubble" TEXT="E4(19)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -457,9 +543,17 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">crystal_castle flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
 </node>
@@ -495,7 +589,7 @@
 </html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465580156" ID="ID_1111533200" MODIFIED="1497115749435" STYLE="bubble" TEXT="E5(20)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465580156" ID="ID_1111533200" MODIFIED="1497119017220" STYLE="bubble" TEXT="E5(20)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -516,11 +610,19 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">empty_room flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465583256" ID="ID_1465292676" MODIFIED="1497115857099" STYLE="bubble" TEXT="E6(21)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465583256" ID="ID_1465292676" MODIFIED="1497119047965" STYLE="bubble" TEXT="E6(21)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -544,9 +646,17 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">vampire flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
 <node CREATED="1495465428179" HGAP="19" ID="ID_1994769506" MODIFIED="1497111153804" TEXT="D4(11)" VSHIFT="13">
@@ -562,7 +672,7 @@
 </html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465626277" ID="ID_930581712" MODIFIED="1497115855554" STYLE="bubble" TEXT="E7(22)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465626277" ID="ID_930581712" MODIFIED="1497119159372" STYLE="bubble" TEXT="E7(22)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -583,11 +693,19 @@
     <p>
       GOOD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">talking_bull flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1495465630621" ID="ID_138782534" MODIFIED="1497115853769" STYLE="bubble" TEXT="E8(23)">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1495465630621" ID="ID_138782534" MODIFIED="1497119217411" STYLE="bubble" TEXT="E8(23)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -608,9 +726,17 @@
     <p>
       BAD ENDING
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#ff6600">you_are_boring flag</font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#ff9999"/>
+<icon BUILTIN="flag-black"/>
 </node>
 </node>
 </node>

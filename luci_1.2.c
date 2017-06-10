@@ -6,9 +6,12 @@ char i;
 
 main()
 {
-	bool ending = false;
+	bool ending = false; bool shark  = false; bool fool  = false; bool evil_spirit = false; bool crystal_castle = false;bool empty_room  = false;bool good_deed  = false; bool guilt  = false; bool vampire  = false; bool talking_bull  = false; bool you_are_boring = false;
+	bool stupid  = false; bool depths_of_the_ocean  = false; bool beautiful  = false; bool money = false; bool coward = false;
 	int a;
 	int n;
+	int deathcounter = 0;
+		
 //	char i;
 	i='y';
 //	printf("%c",i);
@@ -44,6 +47,8 @@ main()
 					n=8;
 					story(n);
 					ending=true;
+					deathcounter=deathcounter + 1;
+					fool=true;
 					
 				}
 				else if (a==2)
@@ -57,6 +62,7 @@ main()
 					{
 						n=18;
 						story(n);
+						evil_spirit = true;
 						
 					}
 					else if (a==2)
@@ -64,6 +70,8 @@ main()
 						n=19;
 						story(n);
 						ending=true;
+						deathcounter= deathcounter + 1;
+						crystal_castle = true;
 						
 					} 
 				}
@@ -87,6 +95,7 @@ main()
 						n=20;
 						story(n);
 						ending=true;
+						empty_room = true;
 						
 					}
 					else if (a==2)
@@ -94,6 +103,8 @@ main()
 						n=21;
 						story(n);
 						ending=true;
+						deathcounter=deathcounter + 1;
+						vampire = true;
 						
 					}
 				}
@@ -108,6 +119,7 @@ main()
 					{
 						n=22;
 						story(n);
+						talking_bull = true;
 						
 					}
 					else if (a==2)
@@ -115,6 +127,7 @@ main()
 						n=23;
 						story(n);
 						ending=true;
+						you_are_boring = true;
 						
 					}
 				}
@@ -135,6 +148,7 @@ main()
 			{
 				n=6;
 				story(n);
+				shark = true;
 				printf("\n\n 1. Try to ride it");
 				printf("\n 2. Swim as fast as you can to get out of the water\n\n");
 				scanf("%d",&a);
@@ -142,7 +156,9 @@ main()
 					{
 						n=12;
 						story(n);
-						ending=true;
+						stupid = true;
+						ending = true;
+						deathcounter=deathcounter + 1;
 						
 					}
 				else if (a==2)
@@ -156,13 +172,16 @@ main()
 						{
 							n=26;
 							story(n);
-							ending=true;
+							ending = true;
+							depths_of_the_ocean = true;
+							deathcounter=deathcounter + 1;
 							
 						}
 						else if(a==2)
 						{
 							n=27;
 							story(n);
+							beautiful = true;
 							
 						}
 					}
@@ -185,6 +204,7 @@ main()
 					{
 						n=28;
 						story(n);
+						money = true;
 						
 					}
 					else if(a==2)
@@ -192,6 +212,7 @@ main()
 						n=29;
 						story(n);
 						ending=true;
+						money=true;
 						
 					}
 				}
@@ -199,6 +220,7 @@ main()
 				{
 					n=15;
 					story(n);
+					coward = true;
 					printf("\n\n 1. Help them");
 					printf("\n 2. Don't help them\n\n");
 					scanf("%d",&a);
@@ -207,6 +229,8 @@ main()
 						n=30;
 						story(n);
 						ending=true;
+						deathcounter=deathcounter + 1;
+						good_deed = true;
 						
 					}
 					else if(a==2)
@@ -214,11 +238,15 @@ main()
 						n=31;
 						story(n);
 						ending=true;
+						guilt = true;
 						
 					}
 				}
 			}
 		}
+		
+		//GOOD - BAD ENDING
+		
 		if (ending==true){
 			n=32;
 			story(n);
@@ -227,6 +255,65 @@ main()
 			n=33;
 			story(n);
 		}
+		
+		//DEATH COUNTER
+		
+		if (deathcounter==1)
+			printf("\n\n### You have died %d time ###.\n", deathcounter);
+		else
+			printf("\n\n### You have died %d times ###.\n", deathcounter);
+		
+		//ACHIEVEMENTS
+		
+		printf("\n\n### Achievements ###\n");
+		
+		if (shark==true)
+			printf("\n\n- The great shark\n");
+			
+		if (fool==true)
+			printf("\n- Fool\n");
+			
+		if (evil_spirit==true)
+			printf("\n- The truth behind the evil spirit\n");
+			
+		if (crystal_castle==true)
+			printf("\n- Crystal death\n");
+			
+		if (empty_room==true)
+			printf("\n- Empty room\n");
+			
+		if (vampire==true)
+			printf("\n- Green vampire death\n");
+			
+		if (talking_bull==true)
+			printf("\n- Talking bull\n");
+			
+		if (you_are_boring==true)
+			printf("\n- You are so boring\n");
+	
+		if (stupid==true)
+			printf("\n- You are so stupid\n");
+			
+		if (depths_of_the_ocean==true)
+			printf("\n- Depths of the ocean\n");
+			
+		if (beautiful==true)
+			printf("\n- Beautiful\n");
+			
+		if (money==true)
+			printf("\n- Money problems\n");
+		
+		if (coward==true)
+			printf("\n- Coward\n");
+		
+		if (good_deed==true)
+			printf("\n- Good deed doer\n");
+		
+		if (guilt==true)
+			printf("\n- Guilt\n");
+			
+		//TRY AGAIN?
+		
 		F();
 	}
 }
@@ -294,7 +381,7 @@ story(x)
 			break;
 		case 8:
 			printf("\n--This is D1--");
-			printf("\nYou reach for their hand and pull them up. After saving them you lie flat on the ground to take a breath.");
+			printf("\n     You reach for their hand and pull them up. After saving them you lie flat on the ground to take a breath.");
 			printf("\nSuddenly, while your eyes are closed, you feel someone pushing you causing you to fall off the cliff. While you");
 			printf("\nare falling you see your other self smiling from the top. You clearly shouldn't have trusted them. Fool me");
 			printf("\nonce shame on you, fool me twice shame on me.");
@@ -417,14 +504,14 @@ story(x)
 			
 			break;
 		case 32:
-			printf("\n--BAD ENDING--");
-			printf("\nYou wake up sweaty and exhausted. You take a moment to breath while you think what to do next. There must");
+			printf("\n\n--BAD ENDING--");
+			printf("\n\n     You wake up sweaty and exhausted. You take a moment to breath while you think what to do next. There must");
 			printf("\nmore pleasant experiences than this. You just have to look harder for them.");
 			
 			break;
 		case 33:
-			printf("\n--GOOD ENDING--");
-			printf("\nYou wake up feeling wonderfull. This experience is unlike anything you have ever seen before and you think that");
+			printf("\n\n--GOOD ENDING--");
+			printf("\n\n     You wake up feeling wonderfull. This experience is unlike anything you have ever seen before and you think that");
 			printf("\nyou should put it immediately back for more.");
 			
 			break;
@@ -433,7 +520,7 @@ story(x)
 
 void F(void)
 {
-	printf("\n\nDo you want to try again?(y,n)\n");
+	printf("\n\n\nDo you want to try again?(y,n)\n");
 	scanf("%c",&i);
 	scanf("%c",&i);
 
