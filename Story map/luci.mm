@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffffcc" CREATED="1495375613729" ID="ID_1135066067" MODIFIED="1497111126835" STYLE="bubble" TEXT="A(1)">
+<node BACKGROUND_COLOR="#ffffcc" CREATED="1495375613729" ID="ID_1135066067" MODIFIED="1497116246569" STYLE="bubble" TEXT="A(1)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -72,8 +72,7 @@
       <b>Alien planet</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1495465370086" HGAP="19" ID="ID_167552843" MODIFIED="1497111153821" TEXT="C3(6)" VSHIFT="1">
@@ -86,8 +85,7 @@
       <b>Take a swim in the purple sea</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465431435" ID="ID_378515042" MODIFIED="1497115851872" STYLE="bubble" TEXT="D5(12)" VSHIFT="-5">
@@ -112,8 +110,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -130,8 +127,7 @@
       <b>Swim as fast as you can to get out of the water</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465862403" ID="ID_810766439" MODIFIED="1497115848729" STYLE="bubble" TEXT="E11(26)">
@@ -156,8 +152,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465864408" ID="ID_933111226" MODIFIED="1497115803456" STYLE="bubble" TEXT="E12(27)">
@@ -182,8 +177,7 @@
       GOOD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
@@ -198,8 +192,7 @@
       <b>Go into the cave</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1495465435155" ID="ID_481153028" MODIFIED="1497111153819" TEXT="D7(14)" VSHIFT="-18">
@@ -212,8 +205,7 @@
       <b>Fight the bear with the two heads</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465879388" ID="ID_684725599" MODIFIED="1497115824320" STYLE="bubble" TEXT="E13(28)">
@@ -238,8 +230,7 @@
       GOOD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465881008" ID="ID_1067439683" MODIFIED="1497115844709" STYLE="bubble" TEXT="E14(29)">
@@ -264,8 +255,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
@@ -279,8 +269,7 @@
       <b>Hide</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465892838" ID="ID_984924856" MODIFIED="1497115886330" STYLE="bubble" TEXT="E15(30)">
@@ -308,8 +297,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465894250" ID="ID_573119284" MODIFIED="1497115926857" STYLE="bubble" TEXT="E16(31)">
@@ -337,8 +325,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
@@ -357,8 +344,7 @@
       &#160;&#160;&#160;&#160;&#160;You find yourself in a beautifull forest. You notice that a few meters ahead of you is a cage with someone inside, so you go to investigate. It turns out that inside it is not any other but yourself! They look exactly like you. They tell you that an evil captor trapped them inside and inly you can help them. You:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#000000" CREATED="1495465353656" ID="ID_1086917729" MODIFIED="1497111153816" STYLE="bubble" TEXT="C1(4)">
@@ -374,8 +360,7 @@
       You find the keys to the magic lock and unlock your other self, but the moment you brake them out they hit you and say 'You are such a fool, I knew it!'. While fighting you roll down a hill. After some kicks and punches you push your other self off a cliff making them hang off the edge. They cry out 'Please, don't let me fall, I am sorry that I attacked you I had no choice! Please don't let me die!'. You:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999" STYLE="bezier"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465394316" HGAP="21" ID="ID_647394129" MODIFIED="1497112307144" STYLE="bubble" TEXT="D1(8)" VSHIFT="-10">
@@ -397,8 +382,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -415,8 +399,7 @@
       YOU SEE THE CAPTOR RUNNING TOWARDS YOU.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465522915" ID="ID_680128640" MODIFIED="1497115696140" STYLE="bubble" TEXT="E3(18)">
@@ -447,8 +430,7 @@
       GOOD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465524308" ID="ID_1327658816" MODIFIED="1497115710945" STYLE="bubble" TEXT="E4(19)">
@@ -476,8 +458,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
@@ -492,8 +473,7 @@
       <b>Don't set self free</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1495465412384" HGAP="21" ID="ID_1997300557" MODIFIED="1497111153805" TEXT="D3(10)" VSHIFT="-13">
@@ -512,8 +492,7 @@
       YOU JUMP ON THEM TO GO BACK DOWN (You see that a house appeared with guards walking around)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465580156" ID="ID_1111533200" MODIFIED="1497115749435" STYLE="bubble" TEXT="E5(20)">
@@ -538,8 +517,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465583256" ID="ID_1465292676" MODIFIED="1497115857099" STYLE="bubble" TEXT="E6(21)">
@@ -567,8 +545,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
@@ -582,8 +559,7 @@
       <b>Control the bubble with your mind to go back down to the ground safely</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465626277" ID="ID_930581712" MODIFIED="1497115855554" STYLE="bubble" TEXT="E7(22)">
@@ -608,8 +584,7 @@
       GOOD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 <node BACKGROUND_COLOR="#ff9999" CREATED="1495465630621" ID="ID_138782534" MODIFIED="1497115853769" STYLE="bubble" TEXT="E8(23)">
@@ -634,8 +609,7 @@
       BAD ENDING
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#ff9999"/>
 </node>
 </node>
